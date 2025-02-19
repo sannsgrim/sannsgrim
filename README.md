@@ -1,5 +1,9 @@
 <div style="background-color: #282a36; padding: 20px; border-radius: 10px;">
-  <h1 style="color: #ff79c6; margin-bottom: 30px;">Hi 👋! I'm Zel</h1>
+   <h1 style="color: #ff79c6; margin-bottom: 30px;">
+     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋!+I'm+Zel;Hi+💻!+I'm+a+Programmer;Let's+create+something+amazing!&color=ff79c6&size=25&width=500&height=60">
+   </h1>
+  
+ 
 
 <!-- Visitor Counter -->
 <br clear="both">
