@@ -4,7 +4,7 @@
   <!-- Stats Cards Container -->
   <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-bottom: 30px;">
     <img src="https://github-readme-stats.vercel.app/api?username=sannsgrim&show_icons=true&theme=dracula&hide_border=true" style="height: 165px;" />
-    <img src="https://streak-stats.demolab.com?user=sannsgrim&locale=en&mode=daily&theme=dracula&hide_border=false&hide_border=true" style=" height: 165px;" alt="streak graph"  />
+    <img src="https://streak-stats.demolab.com?user=sannsgrim&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" style=" height: 165px;" alt="streak graph"  />
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sannsgrim&layout=compact&theme=dracula&hide_border=true" style="height: 165px;" />
   </div>
 
