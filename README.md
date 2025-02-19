@@ -45,8 +45,15 @@
 
   <!-- Visitor Counter -->
   <h3 style="color: #bd93f9; margin-bottom: 20px;">Current Users</h3>
-  <img src="https://profile-counter.glitch.me/sannsgrim/count.svg" style="margin-bottom: 30px;" />
+  <br clear="both">
 
-  <!-- Footer GIF -->
-  <img src="https://giffiles.alphacoders.com/698/69826.gif" style="height: 200px; border-radius: 10px;" />
+<div align="center">
+  <img src="https://profile-counter.glitch.me/sannsgrim/count.svg?"  />
+</div>
+
+
+<br clear="both">
+
+<div align="center">
+  <img height="200" src="https://giffiles.alphacoders.com/698/69826.gif"  />
 </div>
