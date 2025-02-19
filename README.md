@@ -50,10 +50,14 @@
 
   <!-- Tech Stack -->
   <div style="margin: 30px 0;" align="center">
-    <h3 style="color: #bd93f9; margin-bottom: 20px;">My Tech Stack</h3>
+     <div style="display: flex; flex-direction: row; justify-content: center; gap: 20px; margin-bottom: 30px;">
+        <h3 style="color: #bd93f9; margin-bottom: 20px;">My Tech Stack</h3>
+        <p>
+           <img src="https://readme-typing-svg.herokuapp.com/?lines=Javascript;Python;Laravel;VueJs;Flutter&color=ff79c6&size=25&center=true&vCenter=true&width=500&height=70">
+        </p>
+     </div>
     <div style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="height: 40px;" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="height: 40px;" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="height: 40px;" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" style="height: 40px;" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" style="height: 40px;" />
