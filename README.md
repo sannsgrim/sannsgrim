@@ -36,11 +36,17 @@
   <!-- Profile GIF -->
   <div align="center">
     <img src="https://media.tenor.com/D4cf0NyG1QUAAAAi/glasses-girl.gif" style="height: 150px; margin: 20px 0;" />
+    
+     
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+    
   </div>
+
+  
 
   <!-- Tech Stack -->
   <div style="margin: 30px 0;" align="center">
-    <h3 style="color: #bd93f9; margin-bottom: 20px;">Tech Stack</h3>
+    <h3 style="color: #bd93f9; margin-bottom: 20px;">My Tech Stack</h3>
     <div style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="height: 40px;" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="height: 40px;" />
@@ -70,3 +76,9 @@
   <!-- Snake Animation -->
   <img src="https://raw.githubusercontent.com/sannsgrim/sannsgrim/output/snake.svg" style="width: 100%; margin: 30px 0;" />
 </div>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=sannsgrim&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+## 💰 You can help me by Donating
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paypal.me/Zelly720) 
