@@ -21,10 +21,15 @@
   <!-- Stats Cards Container -->
 
 <div align="center" style="margin-top: 50px;">
-  
-  <div style="display: flex; flex-direction: column; justify-content: center; gap: 20px; margin-bottom: 30px;">
+   
+   <!-- Snake Animation -->
+   <div style="display: flex; flex-direction: column; justify-content: center; gap: 20px; margin-bottom: 30px;">
+    <img src="https://raw.githubusercontent.com/sannsgrim/sannsgrim/output/snake.svg" style="width: 100%; margin: 30px 0;" />  
+   </div>
+   
+   <div style="display: flex; flex-direction: column; justify-content: center; gap: 20px; margin-bottom: 30px;">
     <img src="https://streak-stats.demolab.com?user=sannsgrim&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" style=" height: 165px;" alt="streak graph"/>
-  </div>
+   </div>
   
   <div style="display: flex; flex-direction: column; justify-content: center; gap: 20px; margin-bottom: 30px;">
     <img src="https://github-readme-stats.vercel.app/api?username=sannsgrim&show_icons=true&theme=dracula&hide_border=false&border_radius=5" style="height: 165px;" />
@@ -81,8 +86,6 @@
     </a>
   </div>
 
-  <!-- Snake Animation -->
-  <img src="https://raw.githubusercontent.com/sannsgrim/sannsgrim/output/snake.svg" style="width: 100%; margin: 30px 0;" />
 </div>
 
 ## 🏆 GitHub Trophies
