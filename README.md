@@ -3,14 +3,7 @@
      <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋!+I'm+Zel;Hi+💻!+I'm+a+Programmer;Let's+create+something+amazing!&color=ff79c6&size=25&width=500&height=60">
    </h1>
   
- 
 
-<!-- Visitor Counter -->
-<br clear="both">
-
-<div align="center">
-  <img height="200" src="https://giffiles.alphacoders.com/698/69826.gif"  />
-</div>
   <!-- Stats Cards Container -->
 
 <div align="center" style="margin-top: 50px;">
