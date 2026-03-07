@@ -9,13 +9,6 @@
 <br clear="both">
 
 <div align="center">
-  <p>Visitor Count</p>
-  <img src="https://profile-counter.glitch.me/sannsgrim/count.svg?"  />
-</div>
-
-<br clear="both">
-
-<div align="center">
   <img height="200" src="https://giffiles.alphacoders.com/698/69826.gif"  />
 </div>
   <!-- Stats Cards Container -->
